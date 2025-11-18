@@ -1,0 +1,9 @@
+codigo_funcionario,nome_funcionario,secao,funcao,valor_salario,vale_alimentacao,seguro
+001,João Silva,TI,Desenvolvedor,5000.00,500.00,100.00
+002,Maria Santos,RH,Gerente,6000.00,500.00,100.00
+003,Pedro Oliveira,Financeiro,Analista,4500.00,500.00,100.00
+004,Ana Costa,TI,Desenvolvedora Senior,7000.00,500.00,100.00
+005,Carlos Mendes,Vendas,Gerente de Vendas,5500.00,500.00,100.00
+006,Juliana Rocha,Marketing,Especialista,4800.00,500.00,100.00
+007,Roberto Lima,Operações,Supervisor,5200.00,500.00,100.00
+008,Fernanda Gomes,RH,Analista,4200.00,500.00,100.00
